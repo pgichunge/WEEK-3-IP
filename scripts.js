@@ -8,6 +8,6 @@ jQuery(document).ready(function() {
     });
   
     jQuery("img").click(function() {
-      alert("This is an image.");
+      alert("WELCOME TO DELANI STUDIO.AMAZING PEOPLE ARE MAKING AMAZING DESIGNS IN A FUN ENVIRONMENT");
     });
   });
