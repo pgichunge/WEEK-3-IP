@@ -16,3 +16,10 @@ jQuery(document).ready(function() {
                 alert("DEVELOPMENT All engineers are fluent in the latest enterprise, mobile and web development technologies. They collaborate with your team to write, and improve code on a daily basis, using proven practices such as test-driven development and pair programming.");
               });
             });
+            jQuery(document).ready(function() {
+      
+              jQuery("body").click(function() {
+                    alert("check our amazing desins");
+                  });
+                });
+            
