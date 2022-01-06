@@ -1,7 +1,7 @@
 jQuery(document).ready(function() {
-    
+      
   jQuery("h2").click(function() {
-        alert("PRODUCT MANAGEMENT.Planning and development is iterative. Because we are constantly coding and testing, the products we build are always ready to go live. This iterative process allows for changes as business requirements evolve.");
+        alert("PRODUCT MANAGEMENT.Planning and development is iterative. Because we are constantly coding and testing, the products we build are always ready to go live. This iterative process allows for changes as business requirements evolve");
       });
     });
     jQuery(document).ready(function() {
