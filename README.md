@@ -9,7 +9,7 @@
 
 
 <!-- ABOUT THE PROJECT -->
-## week 2 project
+## week 3 ip
 
 This is my week 3 ip
 languages used
